@@ -1,0 +1,1 @@
+New-Item alias:python2 -value "C:\Users\anton.gladyshev\AppData\Local\Microsoft\Python27\python.exe"
